@@ -1,4 +1,4 @@
-# Personality Trait Classification using TF-IDF and BERT
+<!-- # Personality Trait Classification using TF-IDF and BERT
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6%2B-orange)
@@ -51,4 +51,4 @@ To start off, run ```src/main.ipnyb```. This notebook takes in the raw data  in 
 
 Proceed to individually train the models by runnings the ```src/model1.ipynb``` and ```src/model2.ipynb``` notebooks. This will result in populating the models folder with the relevant files for each model
 
-To use the models, this functionalities are scripted in the ```.py``` files. To predict personality using the TF-IDF model, run the ```src/tf_idf.py``` file. To make use of the BERT model in predicting personality, run the ```src/bert_model.py``` file# big-five-personality-prediction
+To use the models, this functionalities are scripted in the ```.py``` files. To predict personality using the TF-IDF model, run the ```src/tf_idf.py``` file. To make use of the BERT model in predicting personality, run the ```src/bert_model.py``` file# big-five-personality-prediction -->
